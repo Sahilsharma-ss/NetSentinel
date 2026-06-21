@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+.env
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Testing / Coverage
+.coverage
+.pytest_cache/
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Temporary Files
+*.tmp
+*.swp
+
+# Packet Captures
+pcaps/*.pcap
+pcaps/*.pcapng
+
+NetSentinel.zip
